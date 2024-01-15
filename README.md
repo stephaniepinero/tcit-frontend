@@ -1,5 +1,6 @@
 ## Pre requisitos
  - Tener instalado npm 
+ - Haber levantado la parte backend (https://github.com/stephaniepinero/tcit-back)
 
 ## Levantamiento
 
